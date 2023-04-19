@@ -1,16 +1,9 @@
-# stripe_example
+Stripe Flutter
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+[Youtube Watch](https://www.youtube.com/watch?v=1v-kUU0Vjq4)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![done](https://user-images.githubusercontent.com/77012663/233113884-48a1f81e-e122-4d6d-b631-51b4fa0f6b4a.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
